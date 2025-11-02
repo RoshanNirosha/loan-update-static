@@ -1,0 +1,28 @@
+[
+  {
+    "beneficiary_name": "John Doe",
+    "beneficiary_nic": "901234567V",
+    "beneficiary_address": "123 Main St, Colombo",
+    "beneficiary_gn_division": "Colombo 01",
+    "beneficiary_category": "extremelyPoor",
+    "interest_rate": "8%",
+    "loan_type": "empowerment",
+    "project": "agricultural",
+    "loan_amount": "50000",
+    "loan_issued_date": "2023-01-15",
+    "entry_timestamp": "2023-01-15"
+  },
+  {
+    "beneficiary_name": "Jane Smith",
+    "beneficiary_nic": "854567890V",
+    "beneficiary_address": "456 Park Ave, Colombo",
+    "beneficiary_gn_division": "Colombo 02",
+    "beneficiary_category": "samurdhi",
+    "interest_rate": "4%",
+    "loan_type": "ranpatha",
+    "project": "trade",
+    "loan_amount": "150000",
+    "loan_issued_date": "2023-02-20",
+    "entry_timestamp": "2023-02-20"
+  }
+]

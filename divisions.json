@@ -1,0 +1,4710 @@
+[
+  {
+    "division": "Negombo",
+    "gn_division": "77A Kammalthura"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "77 Pallansena North"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "78 Kochchikade"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "76 Pallansena South"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "74 Daluwakotuwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "75A Palangathure"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "73 Ettukala"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "74A Daluwakotuwa East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "75 Kattuwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "72A Dalupotha East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "72 Dalupotha"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "73A Kudapaduwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "73B Kudapaduwa North"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "73C Kudapaduwa South"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "158 Wella Weediya"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "158B Wella Weediya East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "159 Periyamulla"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "159A Hunupitiya"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "161A Angurukaramulla"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "160 Udayarthoppuwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "158A Wella Weediya South"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "156A Munnakkarai North"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "162A Doowa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "162 Pitipana North"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "162D Pitipana Central"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "156 Munnakkaraya"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "156B Munnakkarai East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "160A Thaladuwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "160B Udayarthoppuwa South"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "157 Bolawalana"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "157B Kurana West"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "157A Kurana East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "156C Siriwardana Pedesa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "162C South Pitipana East"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "162B Pitipana South"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "163 Thalahena"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "163B Dungalpitiya"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "163C Seththappaduwa"
+  },
+  {
+    "division": "Negombo",
+    "gn_division": "163A Kepungoda"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "66 Muruthana"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "67A Manaveriya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "67 Udangawa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "65A Thoppuwa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "65 Bambukuliya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "64A Katana North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "63 Katana East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "64 Katana West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "68A Maha Ethgala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "68 Ethgala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "69B Adikkandiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "69 Welihena North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "69A Welihena South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "70A Pahala Kandawala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "68B Ethgala South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "70 Ihala Kandawala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "94 Kaluwarippuwa West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93 Kondagammulla"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93B Katiyala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93A Kadirana North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "70B K.C. De Silvapura"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "71 Thimbirigaskatuwa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "161C Sellakanda"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "161B Katuwapitiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "161D Mahahunupitiya West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "161 Mahahunupitiya East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93F Pahala Kadirana"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93E Kadirana"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93D Akkara 50"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "93C Kadirana South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "92B Kimbulapitiya West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "92A Kimbulapitiya North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "92 Kimbulapitiya South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "92C Kimbulapitiya Central"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "155 Andiambalama West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "155A Walpola"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "155B Andiambalama East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "154 Dewamottawa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "151 Kovinna"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "149 Evariwatta"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "150 Air Force Camp"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "142B Kurana Katunayaka Central"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "142 Kurana Katunayaka"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "142A Kurana Katunayaka South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "143 Katunayaka North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "143A Katunayaka South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "152A Walanagoda"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "154A Kalahapitiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "152 Madawala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "201 Muthuwadiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "144A Liyanagemulla North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "144 Liyanagemulla South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "148 Amandoluwa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "200 Thampala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "202 Kuswala"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "203 Ganepola"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "153 Heenatiyana West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "153B Heenatiyana South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "153A Heenatiyana East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199F Raddolugama North A"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199C Raddolugama North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199B Raddolugama South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199E Raddolugama South A"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199 Raddoluwa North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199D Raddoluwa West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "147 Seeduwa"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "145B Mookalangamuwa West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "145A Mookalangamuwa East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "145C Bandarawatta East"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "145 Bandarawatta West"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "198A Dambaduraya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "199A Raddoluwa South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "204A Lansiyawadiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "204 Kotugoda"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "204B Kasagahawatta"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "197 Udammita North"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "198 Alawathupitiya"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "197A Udammita South"
+  },
+  {
+    "division": "Katana",
+    "gn_division": "146 Ambalammulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "61A Andimulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "61 Ambalayaya"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "60A Bolagala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "60 Otharawadiya"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "57 Godigamuwa West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "57A Godigamuwa East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "56C Balawala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "56 Badalgama"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "56A Delpakadawara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "55C Sirigapathawatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "55 Pethigoda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "55B Alugolla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "54A Polwatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80E Polhena"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80A Mellawagedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80D Diklanda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "55A Katukenda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "56B Akarangaha"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "82C Kehelella West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "82B Lihiniyagammana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58B Akaragama East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58 Akaragama West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58C Akaragama North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "59 Pahala Madampella"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "61B Halpe"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "95A East Kaluwarippuwa North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "62B Koonagodamulla North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "62 Kongodamulla West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "62C Kongodamulla South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "62A Kongodamulla East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58E Ihala Madampella North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58D Ihala Madampella West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58A Ihala Madampella East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "58F Ihalagama"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "82A Kehelella South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "82 Kehelella North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "81 Delwagura"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80B Wekada"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80C Kalumada"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "79C Agalegedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "79A Waradala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "54B Kotadeniyawa"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "54 Erabadda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53C Diyagampala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53E Koradaminna"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53B Dimbuldeniya"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53F Paragoda North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53A Paragoda South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53D Moragalkanda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53 Nawana West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "52B Hettimulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "52 Halloluwa"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "52A Kelegedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "79B Heeralugedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "79 Walpita"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "80 Welagana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "84 Thammita"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "83 Palliyapitiya West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "88A Induragara North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "88D Induragara South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "96A Kadawala North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "96 Kadawala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "95 East Kaluwarippuwa South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "95B Miriswatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "91 Dagonna North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "91C Dagonna East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "90B Halgahawelawatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "90A Katuwellegama North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "96B Kadawala South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "88B Batepola"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "88C Doonagaha South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "88 Doonagaha"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "83A Palliyapitiya East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "86 Hunumulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "85B Hapugahagama"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "85 Barawavila"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "51 Kudagammana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "46 Pahala Madithiyawala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "44A Kaluaggala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "45 Kuleegedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "53G Nawana East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "42A Nariyamulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "42 Halpe"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "41 Parana Halpe West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "41A Parana Halpe East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "42B Gurullagama"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "43A Ihala Kithulwala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "43 Pahala Kithulwala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "43B Kithulwala North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "44B Kaluaggala Pahalagama"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "44 Wattemulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "46A Ihala Madithiyawala"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "47 Hangawatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "48 Rassapana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "50 Balagalla West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "50B Parana Handiya"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "85A Pinnakele"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "85C Pinnakele South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "86B Urapana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "86A Kelepitimulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "86C Sayakkaramulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "87C Henpitagedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "89 Aluthepola West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "89A Thotillagahawatta"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "90 Katuwellegama South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "91B Palugahawela"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "91A Dagonna South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "87B Hapuwalana South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "87 Hapuwalana"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97A Bomugammana North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97B Bomugammana South"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97D Pinnalanda"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97 Divulapitiya"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "50A Balagalla East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "49 Ullapola East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "49A Ullapola West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97C Wewagedara"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "97E Horagasmulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "104 Aswennawatta East"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "87A Hapuwalana North"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "104A Aswennawatta West"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "104B Weragodamulla"
+  },
+  {
+    "division": "Divulapitiya",
+    "gn_division": "89B Aluthepola East"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "3A Nalla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "1A Giriullagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "1 Loluwagoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "3B Delwala South"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "3 Delwala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "1B Loluwagoda South"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "11 Madurupitiya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "11A Hapugahagedara"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "2 Kadangamuwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "5 Henegama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "4A Maladeniya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "4 Kahadawa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "6 Kandalama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "10 Walbotale"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "12A Perisyala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "12B Kamarangawa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "12 Keenadeniya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14E Bothale Pahalagama North"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "9A Maweehena"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "9B Kurunduwatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "9 Purana Meerigama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "7 Hakurukumbura"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "8 Mugurugampala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15 Vilwatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15E Thawalampitiya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14 Bothale Pahalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14D Bothale Pahalagama West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14C Bothale Medagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14F Bothale Pahalagama East"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "13B Thalagama East"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "13A Thalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "13C Balathawa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "13 Makura"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14B Pottekanda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14A Bothale Iahalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "14G Adagalakanda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16F Ihala Halugama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16B Kidiwala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16E Pahala Halugama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15B Meerigama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15D Walawwatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "40C Thilinagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "40B Vijayarajadahana"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15C Ihala Neligama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15F Neligama Central"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "15A Neligama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16 Lindara"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16A Halugama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "21C Siyambalagoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16D Pahala Lindara"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "17 Pohonnaruwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "40A Indiparape"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "39 Kosetadeniya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "38 Imbulanwala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "37 Uduulla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "36 Gaspe"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "35 Banduragoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "34A Keppitiwalana"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "36A Gaspe Pahalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "32A Galgana"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "31B Pelapitigama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "31C Elhena"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "40 Ganegoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "40D Hiriwala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "18A Handurumulla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "19A Pamunuwatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "16C Ihala Lindara"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "21A Arukgoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "21 Madabavita"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "21B Madabavita Ihalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "22A Nawgala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "22 Danovita"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "20A Weweldeniya Pahalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "20B Weweldeniya Pahalagama West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "19 Henepola"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "18 Palmada"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "26 Kal /Pallewela"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28B Raddelgoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "31A Ihala Bokalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "31 Pahala Bokalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "32 Kukulnape"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "36B Gaspe South"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "34 Muddaragama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "33 Hanchapola"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "33A Hirikuluwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "34B Pathagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "336B Borukgamuwa West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "336 Borukgamuwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "29A Pallewela"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "30A Weragoda / Kakkele"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28F Hansagiriya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28D Welavilamulla North"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28A Welavilamulla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "27 Udawela"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "25 Hapitigama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "25C Makkanigoda North"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "19B Pahalawela"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "20D Millawala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "20C Weweldeniya Ihalagama West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "20 Weweldeniya Ihalagama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "23 Kotadeniya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "23A Ilukpatha / Weragoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "358A Hedidenikanda-Radawadunna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "360 Radawadunna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "25A Bataleeya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "25B Bataleeya South"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28C Bolana"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28 Mallehewa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "28E Wabadamulla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "30 Weragoda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "29 Midellawala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "336A Kendalanda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "336C Nungamuwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "335 Uthuwambogahawatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "337B Pahala Maligathenna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "337C Maligathenna Central"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "337 Wandurawa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "338A Galgamuwa West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "338 Galgamuwa East"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "340 Kumbaloluwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "340B Ihala Kumbaloluwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "340A Pahala Kumbaloluwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "341A Dumunnegedara South"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "341 Dumunnegedara - Kalatuwawa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "342 Pasyala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "342B Pasyala West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "24 Muruthawala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "356A Kithanawatta"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "360B Kammalpitiya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "360C Radawadunna Central"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "360D Imbulgasovita"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "360A Pahala Radawadunna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "358 Weerasooriyakanda"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "342A Pasyala East"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "334A Udugama"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "344 Panawala"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "340C Delgahamedilla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "339A Mottunna West"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "339 Mottunna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "337A Maligathenna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "334 Kureekotuwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "344A Hakwaduna"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "334B Pahala Kureekotuwa"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "356 Ellalamulla"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "357A Debahera"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "357C Mawathahena"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "357 Meevitiya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "357B Ketakalapitiya"
+  },
+  {
+    "division": "Mirigama",
+    "gn_division": "359 Dambutuwa"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "112/3 Medemulla  North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "112/4 Nilpanagoda West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "112/2 Nilpanagoda East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "112/1 Nilpanagoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/3 Arangawa"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/1 Horampella North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/4 Galkanda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/5 Bodhipihituwala"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "103 Watinapaha"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98/3 Mabodala West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98/1 Mabodala North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98/4 Ihala Vithanamulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "99/3 Nalapaha"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98/5 Pahala Vithanamulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98 Mabodala East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "98/2 Mabodala South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "103/1 Watinapaha South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "103/2 Wankepumulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "103/3 Kamaragoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/6 Kudagoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105 Horampella South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "105/2 Mahagama"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "113 Wegowwa South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "125/3 Minuwangoda East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "125/2 Minuwangoda North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "112 Medemulla South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "124 Boragodawatta North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "123 Yatiyana"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "123/1 Peellawatta"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "122 Unnaruwa"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "123/4 Yatiyana Central"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "123/3 Yatiyana East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "123/2 Kopiwatta"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "124/1 Boragodawatta South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "125/1 Minuwangoda West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "125 Meda Minuwangoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "126/1 Pansilgoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "113/1 Wegowwa East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "115 Helakandana"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "107/1 Peralanda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "106 Dewalapola"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "101 Wadumulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "102/1 Metikotumulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "102 Essella"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "99/4 Yatagama"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "99 Naiwala North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "99/2 Naiwala East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "99/1 Naiwala West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "100 Walpitamulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "127 Balabowa"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "127/1 Balabowa West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "108 Pethiyagoda North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "109 Gallegedara"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "107 Ganihimulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "141 Hendimahara"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "114 Kalawana"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "126 Wattegedara"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "126/3 Ambagahawatta"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "121/1 Galloluwa East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "121 Galloluwa"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "122/1 Kalahugoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "120/1 Polwatta West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "120 Polwatta East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "118/2 Pattanduwana North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "117/2 Ellangala"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "126/2 Burullapitiya"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "116 Mathammana"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "130 Weediyawatta East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131/5 Goigama"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131/4 Ihala Udugampola"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "108/1 Pethiyagoda South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "111 Korase"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "111/1 Korase Meda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "129 Marapola"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "128 Vigoda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "110/1 Doranagoda East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "111/2 Korase East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "110 Doranagoda North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "110/2 Doranagoda West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131/1 Pahala Udugampola East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131 Pahala Udugampola North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131/3 Pahala Udugampola West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "130/1 Weediyawatta West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "117 Welhena"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "117/1 Weliya"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "118 Paththaduwana"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "118/1 Paththaduwana West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/3 Yagodamulla North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/2 Yagodamulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "140/3 Uggalboda West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "140/2 Uggalboda"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "140/1 Kehelbaddara West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "140 Kehelbaddara East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "131/2 Pahala Udugampola South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "135 Asgiriwalpola North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "132 Dombawela"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "133/1 Pedipola"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "110/3 Doranagoda South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "133 Wathumulla"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "134/1 Asgiriya North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "134/2 Asgiriya South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "134 Asgiriya"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "134/3 Asgiriya West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "135/1 Asgiriwalpola South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "135/2 Asgiriwalpola West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "137 Madelgamuwa East"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "137/2 Batapotha"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "139/1 Nedagamuwa North"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "139 Nedagamuwa South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "139/2 Nedagamuwa West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "139/3 Arachchiwatta"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/4 Yagodamulla South"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/6 Samurdhigama"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/5 Opatha"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119/1 Kotugoda2"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "119 Kotugoda1"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "138/1 Maduruwita"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "138 Siyambalapitiya"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "137/1 Madelgamuwa West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "136/1 Thammita West"
+  },
+  {
+    "division": "Minuwangoda",
+    "gn_division": "136 Thammita"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "164 Pamunugama"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "164A Maha Pamunugama"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "193 West of Delathura"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "193A East of Delathura"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "165A Bopitiyathuduwa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "165 Bopitiya"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "165B Pulluhena"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "167A Paranambalama"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "166 Nugape"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "166A Kunjawaththa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "182A Magulpokuna"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "182B Elehiwaththa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "182 Welisara"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "167B Pattiyawala"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "167 Uswetakeiyawa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "178 Mahabage"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "179 Elapitiwala"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "180A Horapethuduwa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "180 Horape"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "250 North of Kurukualawa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "250A South of Kurukulawa"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "254 Heenkenda"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "254A Thuduwegedara"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "177B Galudupita"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "177 Maththumagala"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "177A Kernga Pokuna"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "171 Kerawalapitiya"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "171A Matagoda"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "171B Balagala"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "168B Dikovita"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "168A Palliyawatta North"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "170A Elakanda"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "172B North of Nayaka Kanda"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "176A Mabola"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "176C Welikadamulla"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "176 Wattala"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "172A Hendala North"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "172 Hendala South"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "172C Nayak Kanda South"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "170 Thimbirigasyaya"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "168 Palliyawatta South"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "169A Kurunduhena"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "175A Evariwatta"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "175 Thelagapatha"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "176B Galwetiya"
+  },
+  {
+    "division": "Wattala",
+    "gn_division": "169 Hekiththa"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "205B Mahawatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "194 Dandugama"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "194B Dehiyagatha North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "196 Kudahakapola North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "205A Gallawatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "206 Ekala"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "194A Dehiyagatha South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "195 Kudahakapola South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "205 Ekala Kurunduwatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "206B Vishaka Watta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "192B Thudella North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "192 Thudella West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "192A Thudella South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "191 Kanuwana"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "206A Alexendrawatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "211B Bandigoda"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "207A Yakkaduwa"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "207 Niwandama North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "207B Niwandama South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "211 Batagama North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190B Maeliya"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "191A Ja-Ela"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190A Weligampitiya North"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190E Indipitiya"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "189 Wewala"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190 Weligampitiya South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190D Thumpeliya"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "211A Indiminna"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "185D Dolahena"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "185A Hapugoda West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "190C Kapuwatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "188 Kalaeliya"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "187 Nedurupitiya"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "186 Rilavulla"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "184C Kandana East"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "184 Kandana West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "184B Uswatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "185C Hapugoda Central"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "185 Batagama South"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "212A Polpitimookalana"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "213 Batuwatta West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "213A Batuwatta East"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "212B Walpola East"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181A Jayasrigama"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "185B Hapugoda East"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "183 Nagoda"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "184A Jayasamarugama"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181D Peralanda"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181E Podiveekumbura"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "212 Walpola West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "214 Narangodapaluwa West"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "214A Narangodapaluwa East"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181B Thewatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181 Ragama"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181F Ketagewatta"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181G Dambuwa"
+  },
+  {
+    "division": "Ja-Ela",
+    "gn_division": "181C Rampitiya"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "218 Makevita North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "218A Makevita South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "217 Mabima"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "219A Gonagaha2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "217A Welikada"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "219 Gonagaha1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "220A Ambanvita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "220 Kirindivita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "222B Akaravita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "222 Pahalagama"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "223A Medagama 2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "224 Ihalagama West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "224A Ihalagama East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "225A Gampaha Aluthgama North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "226A Karanayakamulla"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "226 Baduwathugoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "228 Boraliyawatha"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "228A Thittalapitigoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "229 Aluthgama Bogamuwa North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "229A Aluthgama Bogamuwa South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "230 Mahipalagoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "230A Morenna"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "230B Weediyawatta"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "227 Keselwathugoda North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "225C Indigolla"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "225 Gampaha Aluthgama West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "234 Bendiyamulla North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "223C Medagama 4"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "223B Medagama 3"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "223 Medagama 1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "235A Oruthota South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "222A Kosovita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "221A Rathmalavita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "221 Makilangamuwa"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "216 Horagolla North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "216B Thibbotugoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "208 Midellavita"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "209A Kudabollatha"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "209 Bollatha North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "209D Wewel Agara"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "209C Bollatha West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "209B Bollatha South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "210A Bulugahagoda West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "210 Bulugahagoda East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "215 Galahitiyawa North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "216A Horagolla South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "236C Neduna"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "236 Pahalayagoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "235 Oruthota North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "233 Moragoda1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "234B Bendiyamulla West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "234C Kidagammulla"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "234A Bendiyamulla East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "225B Gampaha Aluthgama East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "227A Keselwathugoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "231 Yakkala North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "230C Galthotamulla"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "231A Yakkala West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "231B Pepolgahadeniya"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "231D Yakkala East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "231C Yakkala South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "232 Henarathgoda"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "232D Mudungoda West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "233A Moragoda 2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "235B Ihala Yagoda North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "236A Mahena"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "236D Ganemulla South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "236B Ganemulla North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "215B Galahitiyawa East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "215A Galahitiyawa South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "237 Kossinna East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "238 Amunugoda North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "235C Ihala Yagoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "232C Mudungoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "232B Mudungoda North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "232A Godagedara"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "239A Rathupaswala"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "239B Galloluwa"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "239 Belummahara"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "240 Ihala Imbulgoda North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "240A Ihala Imbulgoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "243B Pahala Imbulgoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "243A Pahala Imbulgoda West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "238A Amunugoda South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "244A Parakandeniya North1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "237A Kossinna West1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "244C Katuwalamulla North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "237B Kossinna West2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "244D Katuwalamulla South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "244B Parakandeniya North2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "244 Parakandeniya South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "243 Pahala Imbulgoda East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "242A Embaraluwa North 2"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "242 Embaraluwa North 1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "240B Weliweriya West"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "241 Nedungamuwa"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "241A Weliweriya East"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "241B Weliweriya North"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "241C Weliweriya South"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "242B Embaraluwa South1"
+  },
+  {
+    "division": "Gampaha",
+    "gn_division": "242C Embaraluwa South 2"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "333/A Eluwapitiya West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "333 Eluwapitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329D Hiripitiya West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329 Hiripitiya North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329C Hiripitiya Central"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329B Hiripitiya East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328/E Thalgasmote West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328A Thalgasmote"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328/D Thalgasmote East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "347 Udammita"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "347C Humbutiyawa West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "347A Humbutiyawa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "346 Parana Veyangoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "346A Kongasdeniya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "343/A Wedagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "343 Kalalpitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "343B Nawagamuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "345 Napagoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348A Nittambuwa South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348 Nittambuwa North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/F Nittambuwa East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "347B Kolawatta"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328/B Pattalagedara East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328 Pattalagedara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329A Hiripitiya South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "332 Wataddara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "332/B Wataddara West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "331 Magalegoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "331A Magalegoda South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "330A Heendeniya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "330 Pattigoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "332/A Wataddara South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "329/E Pahala Hiripitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "328C Danvilana"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "327A Dadagamuwa East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/I Pinnagolla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/C Egoda Nittambuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348H Horagollagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/B Nambadaluwa West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/G Nambabaluwa East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349A Ranpokunagama A Zone"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "355/A Ellakkala West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "350B Maimbula"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349F Ranpokunagama E Zone"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349E Ranpokunagama D Zone"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349D Ranpokunagama C Zone"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349C Ranpokunagama B Zone"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349 Maduwegedara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "349/B Yatiyana"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/D Orchardwatta"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/E Malwatta"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318/C Thihariya North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "321B Katuwasgoda west"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "321A Katuwasgoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "327 Dadagamuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "324A Mudagamuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "325A Bandarabatawala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "325 Pitiyegedara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "325B Daraluwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "324 Bemmulla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "326 Kandaoluwawa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "323 Raniswala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "323A Sapugasthenna"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "322/B Thiriwanegama South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "322A Thiriwanegama North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "322 Halgampitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "321 Kalagedihena"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318/D Thihariyagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318 Thihariya East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "319 Kalotuwawa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "317 Kattota"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "348/J Orchardwatta South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "316 Bogoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352D Mathalana West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "350/A Wathupitiwala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "350 Walpola"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "354 Haggalla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "355 Ellakkala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "361/A Godagama  West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "361 Godagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "363 Welikadamulla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "365 Karasnagala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "364 Alawala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "364/B Ethaudakanda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "364/A Alawala South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "365/A Nikahetikanda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "365C Karasnagala South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "363A Palkumbura"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "362 Pelpita"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "353/B Walaliyadda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "354/A Haggalla East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "353A Diyakade"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "353 Welagedara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352A Kamburagalla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352F Mathalana North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352 Mathalana"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "315 Meewala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "316A Kitttammahara"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318/E Thihariya South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318B Pahala Thihariya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "318/A Thihariya West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "320A Bogamuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "320 Mangalathiriya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "319A Pilankada"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "313 Bonegala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "315A Meewala West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "351/A Udugoda West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352/B Mathalana East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "351 Udugoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352E Pannila"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "352C Hunupola"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "362A Halpandeniya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "366 Urapola"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "366/C Wanduramulla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "366D Deenapamunuwa West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "366B Deenapamunuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "366/A Yatawaka"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "365B Sapugasthenna"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "376 Bopagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "376A Bopagama East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "375A Meevitagammana"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "367B Bopetta South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "367 Bopetta"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "367A Nagoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "368A Kurawalana"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "369 Kahatovita"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "369/A Kahatovita West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "314/A Ogodapola North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "314 Ogodapola"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "312/A Kahambiliyahena"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "312 Udathuththiripitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "311 Mattagoda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "310 Weerangula"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "310/A Weerangula South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "308/A Koskandawala North"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "309 Kirikittamulla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "309A Kirikittamulla South"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "308 Koskandawala"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "371 Opathella"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "370 Paranagama"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "370C Paranagama East"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "368 Aruppassa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "375B Madaotuwa West"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "375 Madakotuwa"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "374 Rathambale"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "373 Walgammulla"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "370B Ruwanpura"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "372A Lavulupitiya"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "370A Galboda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "370D Dematalanda"
+  },
+  {
+    "division": "Attanagalla",
+    "gn_division": "372 Happitiya"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "389B Maryland Colony"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "389 Indurugalla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "293 Wathurugama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "388C Bandaranayakapura West"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "388A Bandaranayakapura East"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "388 Mailawalana"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "388B Mailawalana South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "387A Thimbirigama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "387 Mahal Loluwa"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "386B Ihala Millathe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "377 Pingamuwa"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "386A Pahala Millathe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "386 Millathe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "385 Kirindiwela"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "385A Bogahawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390B Rambutanwatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "389C Etambagahawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "389A Kannimahara"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390 Radawana North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390E Palupelpita"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390C Kithulakanda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390A Radawana South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "390D Alliyawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "391A Diyawala North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "391 Diyawala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "383 Meddegama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "384 Udagama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "384A Vihara Kumbura"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "377B Kuttivila"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "377C Thalgaswatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "377A Kendagolla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "378B Udawela"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "378A Kirimatiyawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "378 Hiswella"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "382A Kiriwana"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "383A Meddegama North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "383B Meddegama South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "382 Werahera"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "381B Pallegama South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "381 Pallegama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "392 Anuragoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "392A Weralugampala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "392D Nedungolla South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "392B Nedungolla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "394A Nandarama Pedesa"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "394 Mandawala North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "394B Mawatha"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "397B Parakadamulla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "397A Nakandapola"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "397 Keragala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "397C Weliketiyawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "395B Kurunduhena"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "395C Baduwatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "395 Mandawala South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "392C Anuragoda South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "381A Walpola"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "380B Pepiliyawala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "380A Ganihagama North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "379B Watawala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "379 Meethirigala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "379C Polhena"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "380D Ganihagama South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "380C Dangalla North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "422A Meniklanda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "393 Pelpita"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "395A Punchi Mandawala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "410C Waharaka"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "396 Putupagala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "398A Walaramba"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "398 Demalagama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "399 Helummahara"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "399A Pananwala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "400B Egoda Pelahela"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "400 Pelahela"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "400A Madurawa"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "400C Kajugaswatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "410 Ihala Lunugama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "410B Meegahawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "393A Yakambe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "421 Pattiyagama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "380 Dangalla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "379A Ranwala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "379D Wedagama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "423 Udugama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "424B Udakananpella South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "424A Udakanampella"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "424 Senasungoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "422 Poogoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "420A Bangalawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "419 Kumarimulla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "420 Ovitigama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "420B Parathapakanda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "406A Dethemulla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "410A Pahala Lunugama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "408 Wanaluwawa North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "404B Thelkekuna"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "404 Indolamulla"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "401A Parangoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "401C Namaluwa"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "401 Dekatana"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "401B Narampola"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "402A Kalukondayawa West"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "402 Kalukondayawa East"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "401D Galwalagoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "404A Ganegoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "405 Dompe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "405A Iddamaldeniya"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "409 Guruwala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "409A Egoda Guruwala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "408A Wanaluwawa South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "407C Giridara West"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "406 Galpothugoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "418 Nikawala"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "418A Kapugoda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "407 Giridara"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "407B Malinda East"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "407A Malinda"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "411 Palugama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "405B Degawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "403 Pahala Dompe"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "413 Malwana"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "412 Pahala Mapitigama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "412B Morahena"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "412A Kimbulvilawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "414 Udamapitigama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "414A Udamapitigama South"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "411A Palugama West"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "415 Welgama"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "415A Lansiyahena"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "416A Samanabedda North"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "417A Mahawalawatta"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "417 Thittapattara"
+  },
+  {
+    "division": "Dompe",
+    "gn_division": "416 Samanabedda"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "304A Kimbulgoda"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "306A Pituwalgoda"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "304 Kinigama"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "303A Maharagama"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "303 Siwralumulla"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "305 Pilikuththuwa"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "306 Yongammulla"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "307A Ambgaspitiya"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "294 Warapalana"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "307 Kandumulla"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "298 Pasgammana"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "297A Maligathenna"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "295A Batepola North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "295 Batepola"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "296 Amunukumbura"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "297 Malwathuhiripitiya"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "299 Buthpitiya North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "302A Uruwala East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "302 Uruwala West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "300 Buthpitiya South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "298A Neelamahara North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "298B Neelamahara South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "301B Aramangoda North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "292A Puwakpitiya"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "296B Amunukumbura South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "296A Balivila"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "292 Vilimbula North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "292B Vilimbula South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "301 Aramangoda"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "301A Kahatana"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "291 Henegama"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "290 Etikehelgalla East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "290A Etikehelgalla West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "289B Kirikitta North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "289 Kirikitta East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "289A Kirikitta West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "284A Ahugammana"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "284B Naranwala South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "284 Naranwala"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "285B Udupila East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "285A Udupila South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "285 Udupila North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "288A Webada South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "288 Webada North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "288B Webada West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "287D Kirillawala North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "287 Kirillawala"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "287C Kirillawala West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "245 Sooriyapaluwa North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "246 Kendaliyeddapaluwa East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "246C Kendaliyeddapaluwa North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "246B Dangahawela"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "246A Kendaliyeddapaluwa West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "247B Mahara Nugegoda North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "247A Mahara Nugedoga West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "247 Mahara Nugegoda East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "245B Sooriyapaluwa East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "245A Sooriyapaluwa South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "287A Ranmuthugala"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "287B Kirillawala South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "288C Webada East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286 Gonahena East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286C Gonahena North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286D Gonahena South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286A Gonahena West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286E Eldeniya East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "286B Eldeniya West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "248C Puwakwetiya"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "248A Ihala Karagahamuna South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "248B Ihala Karagahamuna East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "248 Ihala Karagahamuna North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "247C Mahara Nugegoda South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "249C Neligama"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "249 Pahala Karagahamuna North"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "249A Pahala Karagahamuna East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "249B Pahala Karagahamuna West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "251A Kopiwatta"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "252 Dalupitiya East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "251 Kirimetiyagara"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "252B Dalupitiya South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "252A Dalupitiya West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255D Pinnameda West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255C Gongithota"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255H Appugewatta"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255G Gongithota West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255B Enderamulla South"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255E Enderamulla East"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255 Pinnameda"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "253 Nathuduwa"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255F Enderamulla West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "253A Nathuduwa West"
+  },
+  {
+    "division": "Mahara",
+    "gn_division": "255A Akbar Town"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "256B Welegoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "256 Hunupitiya North"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "256C Nahena"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "259A Eriyawetiya"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "267A Kiribathgoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "267 Thalawathuhenpita North"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "266 Thalawathuhenpita South"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "266A Kendahena"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "259C Egoda Eriyawetiya"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "256D Hunupitiya East"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "256A Hunupitiya South"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "257 Wanawasala West"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "257B Wanawasala East"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "260 Dippitigoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "258 Weweldoowa"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "259 Warakanatta"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "259B Koholvila"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "258A Dalugamgoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "258B Nungamugoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "260A Dalugama"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "257A Himbutuwelgoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "173 Pattiya East"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "173B Pattiya North"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "174C Meegahawatta"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "174A Peliyagodawatta"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "174 Peliyagoda Gangabada"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "174B Peliyagoda Gangabada East"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "173A Pattiya West"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "261 Wedamulla"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "261A Galborella"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "264A Polhena"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "264 Kelaniya"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "263B Sinharamulla North"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "263A Pilapitiya"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "262 Pethiyagoda"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "262A Mawella"
+  },
+  {
+    "division": "Kelaniya",
+    "gn_division": "263 Sinharamulla"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "268 Pahala Biyanvila East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "269 Ihala Biyanvila North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "269/B Ihala Biyanvila Central"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "269/A Mawaramandiya"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "272/A Meegahawatta West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "272 Meegahawatta East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "273 Kammalwatta"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "282/A Delgoda"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "283 Athurumulla"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "282 Kanduboda East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "282/B Kanduboda West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "274/C Siyambalape Watta"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "272B Daranagama"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "274 Siyambalape North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "275 Heiyanthuduwa North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "271 Makola South Ihala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "270 Makola North Ihala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "270/A Makola North Central"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "268/A Pahala Biyanvila West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "268/B Pahala Biyanvila Central"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "270/B Makola North Pahala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "271/B Makola South Pahala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "265 Pamunuvila"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "277 Gonawala East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "271/A Sapugaskanda"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "275/C Heiyanthuduwa West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "275B Heiyanthuduwa East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "274/A Siyambalape South"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "274/B Yatihena"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "281/B Ulahitiwala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "281/A Walgama West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280 Biyagama North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280/D Biyagama West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "275A Heiyanthuduwa South"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "276 Mabima East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "276A Mabima West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "279 Pattivila North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "277B Gonawala Central"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "265A Galeadanda"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "277/A Gonawala West"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "278 Thalwatta"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "278A Bollagala"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "279/A Pattivila South"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280/C Biyagama South"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280B Biyagama East"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280/A Yabaraluwa North"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "280/E Yabaraluwa South"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "281/C Malwana Town"
+  },
+  {
+    "division": "Biyagama",
+    "gn_division": "281 Walgama East"
+  }
+]

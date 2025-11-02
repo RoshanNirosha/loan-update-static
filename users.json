@@ -1,0 +1,530 @@
+[
+  {
+    "username": "bemmulla_bank_01",
+    "password": "password123",
+    "bank": "Bemmulla",
+    "division": "Bemmulla"
+  },
+  {
+    "username": "ellakkala_bank_01",
+    "password": "password123",
+    "bank": "Ellakkala",
+    "division": "Ellakkala"
+  },
+  {
+    "username": "kalatuwawa_bank_01",
+    "password": "password123",
+    "bank": "Kalatuwawa",
+    "division": "Kalatuwawa"
+  },
+  {
+    "username": "koolawatta_bank_01",
+    "password": "password123",
+    "bank": "Koolawatta",
+    "division": "Koolawatta"
+  },
+  {
+    "username": "nittambuwa_bank_01",
+    "password": "password123",
+    "bank": "Nittambuwa",
+    "division": "Nittambuwa"
+  },
+  {
+    "username": "ranpokunagama_bank_01",
+    "password": "password123",
+    "bank": "Ranpokunagama",
+    "division": "Ranpokunagama"
+  },
+  {
+    "username": "ruwanpura_bank_01",
+    "password": "password123",
+    "bank": "Ruwanpura",
+    "division": "Ruwanpura"
+  },
+  {
+    "username": "urapola_bank_01",
+    "password": "password123",
+    "bank": "Urapola",
+    "division": "Urapola"
+  },
+  {
+    "username": "veyangoda_bank_01",
+    "password": "password123",
+    "bank": "Veyangoda",
+    "division": "Veyangoda"
+  },
+  {
+    "username": "weeragula_bank_01",
+    "password": "password123",
+    "bank": "Weeragula",
+    "division": "Weeragula"
+  },
+  {
+    "username": "biyagama_bank_01",
+    "password": "password123",
+    "bank": "Biyagama",
+    "division": "Biyagama"
+  },
+  {
+    "username": "delgoda_bank_01",
+    "password": "password123",
+    "bank": "Delgoda",
+    "division": "Delgoda"
+  },
+  {
+    "username": "gonawala_bank_01",
+    "password": "password123",
+    "bank": "Gonawala",
+    "division": "Gonawala"
+  },
+  {
+    "username": "makola_bank_01",
+    "password": "password123",
+    "bank": "Makola",
+    "division": "Makola"
+  },
+  {
+    "username": "badalgama_bank_01",
+    "password": "password123",
+    "bank": "Badalgama",
+    "division": "Badalgama"
+  },
+  {
+    "username": "diwulapitiya_bank_01",
+    "password": "password123",
+    "bank": "Diwulapitiya",
+    "division": "Diwulapitiya"
+  },
+  {
+    "username": "dunagaha_bank_01",
+    "password": "password123",
+    "bank": "Dunagaha",
+    "division": "Dunagaha"
+  },
+  {
+    "username": "katuwellegama_bank_01",
+    "password": "password123",
+    "bank": "Katuwellegama",
+    "division": "Katuwellegama"
+  },
+  {
+    "username": "kongodamulla_bank_01",
+    "password": "password123",
+    "bank": "Kongodamulla",
+    "division": "Kongodamulla"
+  },
+  {
+    "username": "kotadeniyawa_bank_01",
+    "password": "password123",
+    "bank": "Kotadeniyawa",
+    "division": "Kotadeniyawa"
+  },
+  {
+    "username": "walpita_bank_01",
+    "password": "password123",
+    "bank": "Walpita",
+    "division": "Walpita"
+  },
+  {
+    "username": "welagana_bank_01",
+    "password": "password123",
+    "bank": "Welagana",
+    "division": "Welagana"
+  },
+  {
+    "username": "yatigaha_bank_01",
+    "password": "password123",
+    "bank": "Yatigaha",
+    "division": "Yatigaha"
+  },
+  {
+    "username": "dangalla_bank_01",
+    "password": "password123",
+    "bank": "Dangalla",
+    "division": "Dangalla"
+  },
+  {
+    "username": "dompe_bank_01",
+    "password": "password123",
+    "bank": "Dompe",
+    "division": "Dompe"
+  },
+  {
+    "username": "ginihigama-north_bank_01",
+    "password": "password123",
+    "bank": "Ginihigama-north",
+    "division": "Ginihigama-north"
+  },
+  {
+    "username": "kirindiwela_bank_01",
+    "password": "password123",
+    "bank": "Kirindiwela",
+    "division": "Kirindiwela"
+  },
+  {
+    "username": "mahalloluwa_bank_01",
+    "password": "password123",
+    "bank": "Mahalloluwa",
+    "division": "Mahalloluwa"
+  },
+  {
+    "username": "malindha_bank_01",
+    "password": "password123",
+    "bank": "Malindha",
+    "division": "Malindha"
+  },
+  {
+    "username": "nedungolla_bank_01",
+    "password": "password123",
+    "bank": "Nedungolla",
+    "division": "Nedungolla"
+  },
+  {
+    "username": "putupagala_bank_01",
+    "password": "password123",
+    "bank": "Putupagala",
+    "division": "Putupagala"
+  },
+  {
+    "username": "samanabedda_bank_01",
+    "password": "password123",
+    "bank": "Samanabedda",
+    "division": "Samanabedda"
+  },
+  {
+    "username": "aluthgama/bogamuwa_bank_01",
+    "password": "password123",
+    "bank": "Aluthgama/bogamuwa",
+    "division": "Aluthgama/bogamuwa"
+  },
+  {
+    "username": "amunugoda_bank_01",
+    "password": "password123",
+    "bank": "Amunugoda",
+    "division": "Amunugoda"
+  },
+  {
+    "username": "ganemulla_bank_01",
+    "password": "password123",
+    "bank": "Ganemulla",
+    "division": "Ganemulla"
+  },
+  {
+    "username": "henarathgoda_bank_01",
+    "password": "password123",
+    "bank": "Henarathgoda",
+    "division": "Henarathgoda"
+  },
+  {
+    "username": "kirindivita_bank_01",
+    "password": "password123",
+    "bank": "Kirindivita",
+    "division": "Kirindivita"
+  },
+  {
+    "username": "weliweriya_bank_01",
+    "password": "password123",
+    "bank": "Weliweriya",
+    "division": "Weliweriya"
+  },
+  {
+    "username": "yakkala_bank_01",
+    "password": "password123",
+    "bank": "Yakkala",
+    "division": "Yakkala"
+  },
+  {
+    "username": "batuwatta_bank_01",
+    "password": "password123",
+    "bank": "Batuwatta",
+    "division": "Batuwatta"
+  },
+  {
+    "username": "dadugamperuwa_bank_01",
+    "password": "password123",
+    "bank": "Dadugamperuwa",
+    "division": "Dadugamperuwa"
+  },
+  {
+    "username": "ja-ela_bank_01",
+    "password": "password123",
+    "bank": "Ja-ela",
+    "division": "Ja-ela"
+  },
+  {
+    "username": "kandana_bank_01",
+    "password": "password123",
+    "bank": "Kandana",
+    "division": "Kandana"
+  },
+  {
+    "username": "ragama_bank_01",
+    "password": "password123",
+    "bank": "Ragama",
+    "division": "Ragama"
+  },
+  {
+    "username": "yakkaduwa_bank_01",
+    "password": "password123",
+    "bank": "Yakkaduwa",
+    "division": "Yakkaduwa"
+  },
+  {
+    "username": "adiambalama_bank_01",
+    "password": "password123",
+    "bank": "Adiambalama",
+    "division": "Adiambalama"
+  },
+  {
+    "username": "athagala_bank_01",
+    "password": "password123",
+    "bank": "Athagala",
+    "division": "Athagala"
+  },
+  {
+    "username": "demanhandiya_bank_01",
+    "password": "password123",
+    "bank": "Demanhandiya",
+    "division": "Demanhandiya"
+  },
+  {
+    "username": "katunayaka_bank_01",
+    "password": "password123",
+    "bank": "Katunayaka",
+    "division": "Katunayaka"
+  },
+  {
+    "username": "kotugoda_bank_01",
+    "password": "password123",
+    "bank": "Kotugoda",
+    "division": "Kotugoda"
+  },
+  {
+    "username": "raddoluwa_bank_01",
+    "password": "password123",
+    "bank": "Raddoluwa",
+    "division": "Raddoluwa"
+  },
+  {
+    "username": "hunupitiya_bank_01",
+    "password": "password123",
+    "bank": "Hunupitiya",
+    "division": "Hunupitiya"
+  },
+  {
+    "username": "kelaniya_bank_01",
+    "password": "password123",
+    "bank": "kelaniya",
+    "division": "kelaniya"
+  },
+  {
+    "username": "kiribathgoda_bank_01",
+    "password": "password123",
+    "bank": "kiribathgoda",
+    "division": "kiribathgoda"
+  },
+  {
+    "username": "henegama_bank_01",
+    "password": "password123",
+    "bank": "Henegama",
+    "division": "Henegama"
+  },
+  {
+    "username": "kadawata_bank_01",
+    "password": "password123",
+    "bank": "Kadawata",
+    "division": "Kadawata"
+  },
+  {
+    "username": "mahara_bank_01",
+    "password": "password123",
+    "bank": "Mahara",
+    "division": "Mahara"
+  },
+  {
+    "username": "maligatenna_bank_01",
+    "password": "password123",
+    "bank": "Maligatenna",
+    "division": "Maligatenna"
+  },
+  {
+    "username": "malwatuhiripitiya_bank_01",
+    "password": "password123",
+    "bank": "Malwatuhiripitiya",
+    "division": "Malwatuhiripitiya"
+  },
+  {
+    "username": "ranmutugala_bank_01",
+    "password": "password123",
+    "bank": "Ranmutugala",
+    "division": "Ranmutugala"
+  },
+  {
+    "username": "udupila_bank_01",
+    "password": "password123",
+    "bank": "Udupila",
+    "division": "Udupila"
+  },
+  {
+    "username": "baduragoda_bank_01",
+    "password": "password123",
+    "bank": "Baduragoda",
+    "division": "Baduragoda"
+  },
+  {
+    "username": "idiparape_bank_01",
+    "password": "password123",
+    "bank": "Idiparape",
+    "division": "Idiparape"
+  },
+  {
+    "username": "kandalama_bank_01",
+    "password": "password123",
+    "bank": "Kandalama",
+    "division": "Kandalama"
+  },
+  {
+    "username": "katakalapitiya_bank_01",
+    "password": "password123",
+    "bank": "Katakalapitiya",
+    "division": "Katakalapitiya"
+  },
+  {
+    "username": "keenadeniya_bank_01",
+    "password": "password123",
+    "bank": "Keenadeniya",
+    "division": "Keenadeniya"
+  },
+  {
+    "username": "meerigama_bank_01",
+    "password": "password123",
+    "bank": "Meerigama",
+    "division": "Meerigama"
+  },
+  {
+    "username": "nungamuwa_bank_01",
+    "password": "password123",
+    "bank": "Nungamuwa",
+    "division": "Nungamuwa"
+  },
+  {
+    "username": "pallewela_bank_01",
+    "password": "password123",
+    "bank": "Pallewela",
+    "division": "Pallewela"
+  },
+  {
+    "username": "pasyala_bank_01",
+    "password": "password123",
+    "bank": "Pasyala",
+    "division": "Pasyala"
+  },
+  {
+    "username": "wewaldeniya_bank_01",
+    "password": "password123",
+    "bank": "Wewaldeniya",
+    "division": "Wewaldeniya"
+  },
+  {
+    "username": "devalapola_bank_01",
+    "password": "password123",
+    "bank": "Devalapola",
+    "division": "Devalapola"
+  },
+  {
+    "username": "horampella_bank_01",
+    "password": "password123",
+    "bank": "Horampella",
+    "division": "Horampella"
+  },
+  {
+    "username": "korase_bank_01",
+    "password": "password123",
+    "bank": "Korase",
+    "division": "Korase"
+  },
+  {
+    "username": "minuwangoda_bank_01",
+    "password": "password123",
+    "bank": "Minuwangoda",
+    "division": "Minuwangoda"
+  },
+  {
+    "username": "naywala_bank_01",
+    "password": "password123",
+    "bank": "Naywala",
+    "division": "Naywala"
+  },
+  {
+    "username": "nedagamuwa_bank_01",
+    "password": "password123",
+    "bank": "Nedagamuwa",
+    "division": "Nedagamuwa"
+  },
+  {
+    "username": "udugampola_bank_01",
+    "password": "password123",
+    "bank": "Udugampola",
+    "division": "Udugampola"
+  },
+  {
+    "username": "uggalboda_bank_01",
+    "password": "password123",
+    "bank": "Uggalboda",
+    "division": "Uggalboda"
+  },
+  {
+    "username": "yagodamulla_bank_01",
+    "password": "password123",
+    "bank": "Yagodamulla",
+    "division": "Yagodamulla"
+  },
+  {
+    "username": "negumbo_bank_01",
+    "password": "password123",
+    "bank": "Negumbo",
+    "division": "Negumbo"
+  },
+  {
+    "username": "palagathura_bank_01",
+    "password": "password123",
+    "bank": "Palagathura",
+    "division": "Palagathura"
+  },
+  {
+    "username": "pitipana_bank_01",
+    "password": "password123",
+    "bank": "Pitipana",
+    "division": "Pitipana"
+  },
+  {
+    "username": "hendhala_bank_01",
+    "password": "password123",
+    "bank": "Hendhala",
+    "division": "Hendhala"
+  },
+  {
+    "username": "kelawarapitiya_bank_01",
+    "password": "password123",
+    "bank": "Kelawarapitiya",
+    "division": "Kelawarapitiya"
+  },
+  {
+    "username": "pamunugama_bank_01",
+    "password": "password123",
+    "bank": "Pamunugama",
+    "division": "Pamunugama"
+  },
+  {
+    "username": "wattala_bank_01",
+    "password": "password123",
+    "bank": "Wattala",
+    "division": "Wattala"
+  },
+  {
+    "username": "welisara_bank_01",
+    "password": "password123",
+    "bank": "Welisara",
+    "division": "Welisara"
+  }
+]
