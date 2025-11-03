@@ -337,50 +337,65 @@
             window.location.href = 'login.html';
         }
 
-        // Load loan data from JSON file
+        // Load loan data from localStorage
         function loadLoanDataFromJSON() {
-            fetch('loans.json')
-                .then(response => response.json())
-                .then(data => {
-                    // Update summary
-                    totalLoans.textContent = data.length;
-                    
-                    // Calculate total amount
-                    let total = 0;
-                    data.forEach(loan => {
-                        total += parseFloat(loan.loan_amount);
+            // Get loan data from localStorage or initialize with sample data
+            let data = JSON.parse(localStorage.getItem('loanData')) || [];
+            
+            // If localStorage is empty, try to load from loans.json
+            if (data.length === 0) {
+                fetch('loans.json')
+                    .then(response => response.json())
+                    .then(sampleData => {
+                        // Save sample data to localStorage for consistency
+                        localStorage.setItem('loanData', JSON.stringify(sampleData));
+                        renderLoanData(sampleData);
+                    })
+                    .catch(error => {
+                        console.error('Error loading sample loan data:', error);
+                        renderLoanData([]);
                     });
-                    totalAmount.textContent = formatCurrency(total);
-                    
-                    // Update table
-                    if (data.length === 0) {
-                        loanTableBody.innerHTML = '<tr><td colspan="10" class="no-data">No loan data available</td></tr>';
-                        return;
-                    }
-                    
-                    loanTableBody.innerHTML = '';
-                    
-                    data.forEach(loan => {
-                        const row = document.createElement('tr');
-                        row.innerHTML = `
-                            <td>${loan.beneficiary_name}</td>
-                            <td>${loan.beneficiary_nic}</td>
-                            <td>${loan.beneficiary_gn_division}</td>
-                            <td><span class="category-badge category-${loan.beneficiary_category}">${getCategoryDisplayName(loan.beneficiary_category)}</span></td>
-                            <td>${getLoanTypeDisplayName(loan.loan_type)}</td>
-                            <td>${getProjectDisplayName(loan.project)}</td>
-                            <td class="loan-amount">${formatCurrency(loan.loan_amount)}</td>
-                            <td>${loan.interest_rate}</td>
-                            <td>${formatDate(loan.loan_issued_date)}</td>
-                            <td>${formatDate(loan.entry_timestamp)}</td>
-                        `;
-                        loanTableBody.appendChild(row);
-                    });
-                })
-                .catch(error => {
-                    console.error('Error loading loan data:', error);
-                    loanTableBody.innerHTML = '<tr><td colspan="10" class="no-data">Error loading loan data</td></tr>';
-                });
+            } else {
+                renderLoanData(data);
+            }
+        }
+        
+        // Render loan data to the table
+        function renderLoanData(data) {
+            // Update summary
+            totalLoans.textContent = data.length;
+            
+            // Calculate total amount
+            let total = 0;
+            data.forEach(loan => {
+                total += parseFloat(loan.loan_amount);
+            });
+            totalAmount.textContent = formatCurrency(total);
+            
+            // Update table
+            if (data.length === 0) {
+                loanTableBody.innerHTML = '<tr><td colspan="10" class="no-data">No loan data available</td></tr>';
+                return;
+            }
+            
+            loanTableBody.innerHTML = '';
+            
+            data.forEach(loan => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${loan.beneficiary_name}</td>
+                    <td>${loan.beneficiary_nic}</td>
+                    <td>${loan.beneficiary_gn_division}</td>
+                    <td><span class="category-badge category-${loan.beneficiary_category}">${getCategoryDisplayName(loan.beneficiary_category)}</span></td>
+                    <td>${getLoanTypeDisplayName(loan.loan_type)}</td>
+                    <td>${getProjectDisplayName(loan.project)}</td>
+                    <td class="loan-amount">${formatCurrency(loan.loan_amount)}</td>
+                    <td>${loan.interest_rate}</td>
+                    <td>${formatDate(loan.loan_issued_date)}</td>
+                    <td>${formatDate(loan.entry_timestamp)}</td>
+                `;
+                loanTableBody.appendChild(row);
+            });
         }
 
         // Format currency

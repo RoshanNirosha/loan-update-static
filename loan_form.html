@@ -366,6 +366,22 @@
 
         // Initialize GN divisions
         populateGNDivisions();
+        
+        // Initialize with sample data if needed
+        window.addEventListener('DOMContentLoaded', () => {
+            // Load any existing loan data to ensure consistency
+            if (!localStorage.getItem('loanData')) {
+                fetch('loans.json')
+                    .then(response => response.json())
+                    .then(sampleData => {
+                        localStorage.setItem('loanData', JSON.stringify(sampleData));
+                    })
+                    .catch(error => {
+                        console.error('Error loading sample loan data:', error);
+                        localStorage.setItem('loanData', JSON.stringify([]));
+                    });
+            }
+        });
 
         // Event listener for beneficiary category change
         beneficiaryCategory.addEventListener('change', function() {
@@ -482,30 +498,23 @@
             // Add entry timestamp
             jsonData.entry_timestamp = new Date().toISOString().split('T')[0];
             
-            // Fetch existing loan data
-            fetch('loans.json')
-                .then(response => response.json())
-                .then(loanData => {
-                    // Add new loan data
-                    loanData.push(jsonData);
-                    
-                    // In a static environment, we can't actually save to a file
-                    // So we'll save to localStorage as a fallback
-                    localStorage.setItem('loanData', JSON.stringify(loanData));
-                    
-                    alert('Form submitted successfully!\\n\\nNote: In this static version, data is saved to your browser\'s storage. In a server environment, it would be saved to loans.json.');
-                    // Reset form
-                    this.reset();
-                    // Reset interest rate field
-                    interestRate.value = '';
-                    // Clear error messages
-                    loanAmountError.textContent = '';
-                    loanTypeError.textContent = '';
-                })
-                .catch(error => {
-                    console.error('Error saving loan data:', error);
-                    alert('Error saving loan data. Please try again.');
-                });
+            // Get existing loan data from localStorage or initialize empty array
+            let loanData = JSON.parse(localStorage.getItem('loanData')) || [];
+            
+            // Add new loan data
+            loanData.push(jsonData);
+            
+            // Save to localStorage
+            localStorage.setItem('loanData', JSON.stringify(loanData));
+            
+            alert('Form submitted successfully!\\n\\nNote: In this static version, data is saved to your browser\'s storage.');
+            // Reset form
+            this.reset();
+            // Reset interest rate field
+            interestRate.value = '';
+            // Clear error messages
+            loanAmountError.textContent = '';
+            loanTypeError.textContent = '';
         });
     </script>
 </body>
